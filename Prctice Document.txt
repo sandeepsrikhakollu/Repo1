@@ -1,1 +1,1 @@
-Practice Git as aprt of DevOps Training
+Practice Git
